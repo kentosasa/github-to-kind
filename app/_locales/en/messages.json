@@ -1,10 +1,10 @@
 {
   "appName": {
-    "message": "github-kindness",
-    "description": "The name of the application"
+    "message": "github-to-kind",
+    "description": ""
   },
   "appDescription": {
-    "message": "My Chrome Extension",
-    "description": "The description of the application"
+    "message": "This app convert github-reviews to more kind one",
+    "description": ""
   }
 }
