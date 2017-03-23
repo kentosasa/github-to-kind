@@ -10,16 +10,9 @@
   "default_locale": "en",
   "content_scripts": [
     {
-      "matches": ["http://www.google.com/*"],
-      "css": ["mystyles.css"],
-      "js": ["jquery.js", "myscript.js"]
+      "matches": ["https://github.com/*"],
+      "js": ["scripts/jquery.min.js", "scripts/insert_emoji.js"]
     }
-  ],  
-  "background": {
-    "scripts": [
-      "scripts/chromereload.js",
-      "scripts/background.js"
-    ]
-  },
+  ],
   "permissions": []
 }
