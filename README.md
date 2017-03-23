@@ -12,6 +12,7 @@ You can insert emoji into github-reviews.
 [![https://gyazo.com/a8f5580ca08d4800b60652604f2b1a9a](https://i.gyazo.com/a8f5580ca08d4800b60652604f2b1a9a.png)](https://gyazo.com/a8f5580ca08d4800b60652604f2b1a9a)
 
 ## Install
+[Chrome Store](https://chrome.google.com/webstore/detail/github-to-kind/kgimgpfdabhnbngooglnpmdbfnbopfdn/related)
 
 ## Licence
 
