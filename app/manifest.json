@@ -14,5 +14,6 @@
       "js": ["lib/jquery.min.js", "scripts/insert_emoji.js"]
     }
   ],
+  "background" : [],
   "permissions": []
 }
